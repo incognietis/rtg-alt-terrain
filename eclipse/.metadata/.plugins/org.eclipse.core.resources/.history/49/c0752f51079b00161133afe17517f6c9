@@ -1,0 +1,9 @@
+package com.incognietis.RTGAltTerrain.Reference;
+
+public class Reference {
+	
+	public static final String MODID = "incognietis_rtgaltgen";
+	public static final String Name = "RTGAltGen";
+	public static final String Version = "v0.1";
+
+}

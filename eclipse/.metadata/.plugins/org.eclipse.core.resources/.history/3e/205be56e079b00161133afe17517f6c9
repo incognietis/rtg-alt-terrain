@@ -1,0 +1,30 @@
+package com.incognietis.RTGAltGen;
+
+@Mod(modid = Reference.MODID, name = Reference.Name, version = Reference.Version)
+
+import com.incognietis.RTGAltTerrain.Reference;
+
+import cpw.mods.fml.common.Mod;
+import cpw.mods.fml.common.event.FMLPreInitializationEvent;
+import cpw.mods.fml.common.event.FMLInitializationEvent;
+import cpw.mods.fml.common.event.FMLPostInitializationEvent;
+
+public class RTGAltTerrain {
+	
+	@Mod.EventHandler
+	public void preInit(FMLPreInitializationEvent event){
+		
+	}
+	
+	@Mod.EventHandler
+	public void Init(FMLInitializationEvent event){
+		
+	}
+	
+	@Mod.EventHandler
+	public void postInit(FMLPostInitializationEvent event){
+		
+	}
+	
+
+}
